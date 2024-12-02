@@ -33,7 +33,7 @@
 ### 🌟 **Notable Projects**  
 - **[Fashion MNIST Classification](https://github.com/iamrsarkar/fashion-mnist-classification)**: A project to classify Fashion MNIST images using machine learning.  
 - **[Salary Prediction Model](https://github.com/iamrsarkar/Salary-Prediction-Model)**: Created a regression model for salary estimation with preprocessing and tuning techniques.
-- **[Congruence Theory Applications](#)**: Explored mathematical applications in number theory.  
+- **[Congruence Theory Applications](https://github.com/iamrsarkar/Congruence-Theory-And-Its-Applications)**: Explored mathematical applications in number theory.  
 
 ---
 
