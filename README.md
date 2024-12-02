@@ -1,6 +1,10 @@
-# Hi 👋, I'm Ronak Sarkar  
-Aspiring Data Analyst | Chess Enthusiast | Mathematics Lover  
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=32A1FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Ronak+Sarkar.;Hi+%F0%9F%91%8B%2C+I'm+Ronak+Sarkar.;Hi+%F0%9F%91%8B%2C+I'm+Ronak+Sarkar." alt="Typing SVG">
+</p>
+
+
+## 🌟 Aspiring Data Analyst | ♟️ Chess Enthusiast | 📊 Mathematics Lover
 ---
 
 ### 👨‍💻 **About Me**  
@@ -32,3 +36,6 @@ Aspiring Data Analyst | Chess Enthusiast | Mathematics Lover
 - **[Congruence Theory Applications](#)**: Explored mathematical applications in number theory.  
 
 ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=iamrsarkar&color=blue)
+
