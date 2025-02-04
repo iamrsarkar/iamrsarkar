@@ -28,8 +28,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamrsarkar&show_icons=true&theme=radical) 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamrsarkar&langs_count=10&theme=radical)
 
-![Snake animation](https://github.com/iamrsarkar/iamrsarkar/blob/output/github-contribution-grid-snake.svg)
----
+
 
 ### 🌟 **Notable Projects**  
 - **[Fashion MNIST Classification](https://github.com/iamrsarkar/fashion-mnist-classification)**: A project to classify Fashion MNIST images using machine learning.  
